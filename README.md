@@ -11,13 +11,18 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljamuar&theme=radical&hide_langs_below=1" />
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&show_icons=true&theme=radical)
 
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/ujjwaljamuar)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ujjwaljamuar)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljamuar)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar)  
+
+
 
 
 ### Reach Me 👉
