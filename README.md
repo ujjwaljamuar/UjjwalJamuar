@@ -24,5 +24,5 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
 <a href="https://www.linkedin.com/in/ujjwal-jamuar/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 <a href="https://github.com/ujjwaljamuar"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
 <a href="https://twitter.com/Ujjwal_Jamuar"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
-<a href="https://instagram.com/loneee_wolff_?igshid=1wy4bzwwr3euc"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
+<a href="https://instagram.com/loneee_wolff_?igshid=1wy4bzwwr3euc"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" width="32px" height="32px"></a> 
 <a href="https://www.facebook.com/profile.php?id=100008455410660"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
