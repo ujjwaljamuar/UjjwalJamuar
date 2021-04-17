@@ -21,11 +21,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
  <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
- ![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-blue.svg?logo=Android%20Studio)
-![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 
 
 ![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&count_private=true?count_private=true?&show_icons=true&theme=algolia)
