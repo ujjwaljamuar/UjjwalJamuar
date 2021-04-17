@@ -21,7 +21,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
 ![Profile views](https://gpvc.arturio.dev/ujjwaljamuar)  
 
 
-### Reach Me 👓
+### Reach Me 👉
 <a href="https://www.linkedin.com/in/rituraj-gupta-222334192"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 <a href="https://github.com/riturajgupta21"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
 <a href="https://twitter.com/guptarituraj01"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
