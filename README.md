@@ -13,7 +13,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljamuar&theme=dracula&hide_langs_below=1" />
 
-![Rituraj's github stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&show_icons=true&theme=dracula)
+![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&show_icons=true&theme=radical)
 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=tokyonight)
 
