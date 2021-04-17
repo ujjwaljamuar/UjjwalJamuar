@@ -21,8 +21,8 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
 
 
 ### Reach Me 👉
-<a href="https://www.linkedin.com/in/rituraj-gupta-222334192"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
-<a href="https://github.com/riturajgupta21"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
-<a href="https://twitter.com/guptarituraj01"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
-<a href="https://www.instagram.com/_rituraj10_/"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
-<a href="https://www.facebook.com/rituraj2110"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
+<a href="https://www.linkedin.com/in/ujjwal-jamuar/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://github.com/ujjwaljamuar"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/Ujjwal_Jamuar"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
+<a href="https://instagram.com/loneee_wolff_?igshid=1wy4bzwwr3euc"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
+<a href="https://www.facebook.com/profile.php?id=100008455410660"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
