@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I 'm Ujjwal.
-I'm a ”Stusent"!!
+I'm a ”Student"!!
 
 👨‍🎓Persuing my B.Tech Degree In Computer Science & Engineering .
 
