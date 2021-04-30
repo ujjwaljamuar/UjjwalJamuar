@@ -1,5 +1,5 @@
 
-### Hi there <a href="#" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" alt="wave" width="20" height="20"/> </a>, I 'm Ujjwal.
+### Hi there <a href="#" target="_blank"> <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal.
 I'm a ”Student"!!
 
 👨‍🎓Persuing my B.Tech Degree In Computer Science & Engineering .
