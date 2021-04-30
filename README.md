@@ -20,6 +20,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+ <a href="# target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" alt="nodejs" width="40" height="40"/> </a>
  
  
  <a href="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/visual_studio-512.png" alt="visual-studio" width="40" height="40"/> </a>
