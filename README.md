@@ -1,5 +1,5 @@
 
-### Hi there <a href="#" target="_blank"> <img src="https://tenor.com/bdggH.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal Jamuar.
+### Hi there <a href="#" target="_blank"> <img src="https://media.tenor.com/images/4effd64e6bb268b061c9a27f74513eb7/tenor.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal Jamuar.
 I'm a ”Student"!!
 
 👨‍🎓Persuing my B.Tech Degree In Computer Science & Engineering .
