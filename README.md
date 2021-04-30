@@ -4,7 +4,7 @@ I'm a ”Student"!!
 
 👨‍🎓Persuing my B.Tech Degree In Computer Science & Engineering .
 
-🌱Currently learning everything . 🤣
+🌱Currently learning EVERYTHING . 🤣
 
 
 Skills: **JAVA / PYTHON  / HTML / CSS / JS**
