@@ -35,6 +35,8 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=algolia)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ujjwaljamuar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Reach Me 👉
 <a href="https://www.linkedin.com/in/ujjwal-jamuar/" target="_blank" ><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" width="32px" height="32px"></a>
