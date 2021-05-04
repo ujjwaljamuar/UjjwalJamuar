@@ -33,7 +33,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljamuar&count_private=true&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=algolia)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=algolia&count_private=true)  
 
 
 
