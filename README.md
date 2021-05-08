@@ -18,7 +18,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_html5-512.png" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_css3-512.png" alt="css3" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
  <a href="# target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" alt="nodejs" width="40" height="40"/> </a>
  
