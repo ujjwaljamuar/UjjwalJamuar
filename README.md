@@ -20,7 +20,7 @@ Skills: **JAVA / PYTHON  / HTML / CSS / JS**
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_css3-512.png" alt="css3" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
- <a href="# target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png" alt="nodejs" width="40" height="40"/> </a>
+ <a href="# target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="nodejs" width="40" height="40"/> </a>
  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual-studio-code" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/visual_studio-512.png" alt="visual-studio" width="40" height="40"/> </a>
