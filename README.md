@@ -22,7 +22,7 @@ Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="mongo" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="expressjs" width="40" height="40"/> </a>
- <a href="#" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png" alt="reactjs" width="40" height="40"/> </a>
+ <a href="#" target="_blank"> <img src="https://media4.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e47kj6wi4he0n55e940l6buuqt230wej9r1k9ri8g6p&rid=giphy.gif&ct=s" alt="reactjs" width="40" height="40"/> </a>
  <a href="# target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="nodejs" width="40" height="40"/> </a>
  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual-studio-code" width="40" height="40"/> </a>
