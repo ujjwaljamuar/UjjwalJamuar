@@ -1,5 +1,5 @@
 
-### Hi there <a href="#" target="_blank"> <img src="https://media.tenor.com/images/792fc6dce069cba30796d7c684654316/tenor.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal Jamuar.
+### Hi there <a href="#" target="_blank"> <img src="https://media.tenor.com/images/792fc6dce069cba30796d7c684654316/tenor.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal Jamuar.                                     ![](https://komarev.com/ghpvc/?username=ujjwaljamuar&color=blue&style=plastic&label=PROFILE+VISITS)
 I'm a ”Student"!!
 
 👨‍🎓B.Tech Degree In Computer Science & Engineering from <a href="https://www.soa.ac.in/iter">ITER, SOA University</a>.
@@ -39,7 +39,7 @@ Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=ujjwaljamuar&color=blue&style=plastic&label=PROFILE+VISITS)
+
 
 
 
