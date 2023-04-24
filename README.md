@@ -37,7 +37,7 @@ Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=ujjwaljamuar&color=blue)
+![](https://komarev.com/ghpvc/?username=ujjwaljamuar&color=blue&style=plastic&label=PROFILE+VISITS))
 
 
 
