@@ -19,7 +19,9 @@ Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_html5-512.png" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_css3-512.png" alt="css3" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="40" height="40"/> </a>
- <a href="#" target="_blank"> <img src="https://repository-images.githubusercontent.com/301766027/9141de00-07ff-11eb-9812-4b9062f68997" alt="mern" width="40" height="40"/> </a>
+ <a href="#" target="_blank"> <img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" alt="mongo" width="40" height="40"/> </a>
+ <a href="#" target="_blank"> <img src="" alt="mongo" width="40" height="40"/> </a>
+ <a href="#" target="_blank"> <img src="" alt="mongo" width="40" height="40"/> </a>
  <a href="# target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="nodejs" width="40" height="40"/> </a>
  
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual-studio-code" width="40" height="40"/> </a>
