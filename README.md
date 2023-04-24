@@ -27,7 +27,7 @@ Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
  <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&show_icons=true&theme=merko)
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljamuar&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
