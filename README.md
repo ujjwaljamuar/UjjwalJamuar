@@ -3,7 +3,7 @@
 
 I'm a ”Student"!!
 
-👨‍🎓B.Tech Degree In Computer Science & Engineering from <a href="https://www.soa.ac.in/iter">ITER, SOA University</a>.
+👨‍🎓B.Tech Degree In Computer Science & Engineering from **[ITER, SOA UNIVERSITY](https://www.soa.ac.in/iter)**
 
 🌱Currently learning "EVERYTHING". 🤣
 
