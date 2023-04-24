@@ -35,6 +35,11 @@ Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=algolia&count_private=true)  
 
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=ujjwaljamuar&color=blue)
+
+
 
 ### Reach Me 👉
 <a href="https://www.linkedin.com/in/ujjwal-jamuar/" target="_blank" ><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" width="32px" height="32px"></a>
