@@ -8,7 +8,7 @@ I'm a ”Student"!!
 🌱Currently learning "EVERYTHING". 🤣
 
 
-Skills: **JAVA / PYTHON  /C / HTML / CSS / JS**
+Skills: **JAVA / PYTHON  /C / HTML / CSS / JS / MERN**
 
 
 ## Languages and Tools:
