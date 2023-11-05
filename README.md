@@ -7,10 +7,7 @@ I'm a ”Student"!!
 🌱Currently learning "EVERYTHING". 🤣
 
 
-Skills: **JAVA / PYTHON  /C / HTML / CSS / JS / MERN**
-
-
-## Languages and Tools:
+## Skillset and Tools:
 
 <p align="left"> 
  <a href="https://www.java.com" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-512.png" alt="java" width="40" height="40"/> </a>
