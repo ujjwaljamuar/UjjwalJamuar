@@ -1,3 +1,4 @@
+
 ### Hi there <a href="#" target="_blank"> <img src="https://media.tenor.com/images/792fc6dce069cba30796d7c684654316/tenor.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal Jamuar.
 
 I'm a ”Student"!!
@@ -8,12 +9,15 @@ I'm a ”Student"!!
 
 ## Stats:
 
-[comment]: # (Stats)
+<div align="center">
+    
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ujjwaljamuar&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljamuar&layout=compact&&theme=algolia&langs_count=10&count_private=true&show_icons=true&include_all_commits=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwaljamuar&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)
+
+</div>
 
 
 <br>
