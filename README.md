@@ -1,7 +1,7 @@
 
 ### Hi there <a href="#" target="_blank"> <img src="https://media.tenor.com/images/792fc6dce069cba30796d7c684654316/tenor.gif" alt="wave" width="30" height="30"/> </a>, I 'm Ujjwal Jamuar.
 
-I'm a "Student" || "Developer" || "Learner" ..
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=16&duration=3000&pause=1000&color=FAFAFA&vCenter=true&random=false&width=435&height=20&lines=I+am+a+Student%2C;a+Developer%2C;and+a+Learner.)](https://git.io/typing-svg)
 
 🌱Learning "EVERYTHING". 🤣, connecting DOTS and making things WORK⚒️.
 
